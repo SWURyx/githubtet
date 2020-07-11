@@ -18,4 +18,7 @@ class MainActivity : AppCompatActivity() {
     private fun loaddate(){
         //加载数据
     }
+    private fun upload(){
+        //上传
+    }
 }
