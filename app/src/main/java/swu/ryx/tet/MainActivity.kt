@@ -12,4 +12,7 @@ class MainActivity : AppCompatActivity() {
     private fun login(){
         //登陆
     }
+    private fun exit(){
+        //退出
+    }
 }
