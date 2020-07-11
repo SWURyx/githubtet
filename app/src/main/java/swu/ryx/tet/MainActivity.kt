@@ -21,4 +21,7 @@ class MainActivity : AppCompatActivity() {
     private fun upload(){
         //上传
     }
+    private fun text(){
+
+    }
 }
