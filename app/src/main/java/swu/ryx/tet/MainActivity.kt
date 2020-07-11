@@ -15,4 +15,7 @@ class MainActivity : AppCompatActivity() {
     private fun exit(){
         //退出
     }
+    private fun loaddate(){
+        //加载数据
+    }
 }
